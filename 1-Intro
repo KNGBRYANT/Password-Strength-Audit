@@ -1,2 +1,21 @@
-# Password-Strength-Audit
-Password strength testing using CrackStation and MD5 hash comparison.
+# Password Strength Audit
+
+This is a beginner-friendly cybersecurity project.  
+It checks how strong or weak passwords are by comparing their hashes.  
+The tool uses the CrackStation wordlist for analysis.  
+It shows how easily weak passwords can be cracked.  
+This highlights the real-world risk of using simple passwords.  
+Strong passwords help prevent account takeovers and data breaches.  
+
+---
+
+# How Passwords Are Stored
+
+Systems store password hashes instead of plain text passwords.  
+Hashes are one-way encrypted versions of passwords.  
+In Linux, hashes are stored in `/etc/shadow`.  
+In Windows, password hashes are stored in the SAM file (`C:\Windows\System32\config\SAM`).  
+These files are protected and require admin or root access to view.  
+You can also get hashes in CTFs or breach simulation files like `hashes.txt`.  
+Once you have a hash, tools like CrackStation can try to crack weak ones.
+
