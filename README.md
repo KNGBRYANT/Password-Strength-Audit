@@ -13,10 +13,10 @@ This project evaluates the strength of common and custom passwords by:
 - Markdown for table formatting
 
 ## Sample Table of Results
-See https://github.com/KNGBRYANT/Password-Strength-Audit/tree/2aacab0a13693cc512965d0f86d26521b4f6de16/result
+See result/crack_results_table.md
 
 ## Screenshots
-![CrackStation Screenshot](screenshots/crackstation_example.png)
+see screenshots/crackstation_MD5_example.png
 
 ## Author
 Mayowa Lawal
