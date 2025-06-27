@@ -1,0 +1,8 @@
+Plain Password: MD5 Hash
+-------------------------------
+password123: 482c811da5d5b4bc6d497ffa98491e38
+admin: 21232f297a57a5a743894a0e4a801fc3
+iloveyou: ee8d8728f435fd550f83852aabba2bde
+123456: e10adc3949ba59abbe56e057f20f883e
+Mayowa!2025: 2e6e75d108e5f9f92fdfdc7a244e5d46
+Tech@Secure#22: f6a0ea1f9470c346101123f2681fe20e
