@@ -13,10 +13,10 @@ This project evaluates the strength of common and custom passwords by:
 - Markdown for table formatting
 
 ## Sample Table of Results
-See result/crack_results_table.md
+See ['result/crack_results_table.md'](result/crack_results_table.md)
 
 ## Screenshots
-see screenshots/crackstation_MD5_example.png
+see ['screenshots/crackstation_MD5_example.png'](result/crack_results_table.md)
 
 ## Author
 Mayowa Lawal
